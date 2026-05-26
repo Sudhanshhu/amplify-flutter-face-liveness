@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager (created by opening Package.swift in Xcode)
+.build/
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+xcuserdata/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+build/
+
+# iOS / CocoaPods (in case examples have a Podfile)
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/captures/
+
+# IDE
+.idea/
+.vscode/
+*.iml
